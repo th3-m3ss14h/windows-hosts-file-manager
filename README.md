@@ -21,7 +21,15 @@ A comprehensive Python-based wizard for managing website blocking via the Window
 - **Site Testing**: Verify if a website is actually blocked
 - **File Statistics**: Detailed info about your hosts file
 - **Timestamped Backups**: Never lose your configuration
-- **Visual Interface**: Emojis and clear status indicators
+- **Visual Interface**: Emojis and clear status indicators 
+
+
+
+
+https://github.com/user-attachments/assets/9ea2caa1-cfdd-4cb3-99c2-be1ba9bd5da9
+
+
+
 
 ### 🔒 **Safety & Reliability**
 - Administrator privilege detection
