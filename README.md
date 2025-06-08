@@ -27,6 +27,7 @@ A comprehensive Python-based wizard for managing website blocking via the Window
 
 
 https://github.com/user-attachments/assets/9ea2caa1-cfdd-4cb3-99c2-be1ba9bd5da9
+
 (full-quality video: https://www.youtube.com/watch?v=uoZKonHltbw)
 
 
